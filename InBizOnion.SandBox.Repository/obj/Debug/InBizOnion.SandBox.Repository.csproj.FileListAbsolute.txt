@@ -1,0 +1,11 @@
+E:\Projects\TMP\InBizOnion.SandBox.Repository\bin\Debug\InBizOnion.SandBox.Repository.exe
+E:\Projects\TMP\InBizOnion.SandBox.Repository\bin\Debug\InBizOnion.SandBox.Repository.pdb
+E:\Projects\TMP\InBizOnion.SandBox.Repository\bin\Debug\InBizOnion.Domain.Entity.dll
+E:\Projects\TMP\InBizOnion.SandBox.Repository\bin\Debug\InBizOnion.Domain.Interface.dll
+E:\Projects\TMP\InBizOnion.SandBox.Repository\bin\Debug\InBizOnion.Infrastructure.Repository.dll
+E:\Projects\TMP\InBizOnion.SandBox.Repository\bin\Debug\InBizOnion.Domain.Entity.pdb
+E:\Projects\TMP\InBizOnion.SandBox.Repository\bin\Debug\InBizOnion.Domain.Interface.pdb
+E:\Projects\TMP\InBizOnion.SandBox.Repository\bin\Debug\InBizOnion.Infrastructure.Repository.pdb
+E:\Projects\TMP\InBizOnion.SandBox.Repository\obj\Debug\InBizOnion.SandBox.Repository.csprojResolveAssemblyReference.cache
+E:\Projects\TMP\InBizOnion.SandBox.Repository\obj\Debug\InBizOnion.SandBox.Repository.exe
+E:\Projects\TMP\InBizOnion.SandBox.Repository\obj\Debug\InBizOnion.SandBox.Repository.pdb

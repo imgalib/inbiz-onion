@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{65C5FEAB-9A5D-4990-AA5B-32761C680698}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>InBizOnion.Service.Implementation</RootNamespace>
+    <AssemblyName>InBizOnion.Service.Implementation</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\InBizOnion.Domain.Entity\InBizOnion.Domain.Entity.csproj">
+      <Project>{616f35f8-7aa2-4f48-bb1e-83ddcf0252c8}</Project>
+      <Name>InBizOnion.Domain.Entity</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\InBizOnion.Domain.Interface\InBizOnion.Domain.Interface.csproj">
+      <Project>{2cd0fdbc-3e37-45a8-8303-b5b2ff648376}</Project>
+      <Name>InBizOnion.Domain.Interface</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\InBizOnion.Infrastructure.Interface\InBizOnion.Infrastructure.Interface.csproj">
+      <Project>{fb76d312-2e8b-41fc-9620-9ceee1fe3f17}</Project>
+      <Name>InBizOnion.Infrastructure.Interface</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\InBizOnion.Infrastructure.Repository\InBizOnion.Infrastructure.Repository.csproj">
+      <Project>{1f336f9c-a987-49ee-ad46-e56ba6ce92e8}</Project>
+      <Name>InBizOnion.Infrastructure.Repository</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\InBizOnion.Service.Interface\InBizOnion.Service.Interface.csproj">
+      <Project>{8c29b7a5-cafe-4c98-b2a8-a1bf12c90956}</Project>
+      <Name>InBizOnion.Service.Interface</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

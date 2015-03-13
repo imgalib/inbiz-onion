@@ -1,0 +1,13 @@
+E:\Projects\TMP\InBizOnion.Infrastructure.IOC\bin\Debug\InBizOnion.Infrastructure.IOC.dll
+E:\Projects\TMP\InBizOnion.Infrastructure.IOC\bin\Debug\InBizOnion.Infrastructure.IOC.pdb
+E:\Projects\TMP\InBizOnion.Infrastructure.IOC\bin\Debug\InBizOnion.Domain.Interface.dll
+E:\Projects\TMP\InBizOnion.Infrastructure.IOC\bin\Debug\InBizOnion.Infrastructure.Interface.dll
+E:\Projects\TMP\InBizOnion.Infrastructure.IOC\bin\Debug\InBizOnion.Infrastructure.Repository.dll
+E:\Projects\TMP\InBizOnion.Infrastructure.IOC\bin\Debug\Ninject.dll
+E:\Projects\TMP\InBizOnion.Infrastructure.IOC\bin\Debug\InBizOnion.Domain.Interface.pdb
+E:\Projects\TMP\InBizOnion.Infrastructure.IOC\bin\Debug\InBizOnion.Infrastructure.Interface.pdb
+E:\Projects\TMP\InBizOnion.Infrastructure.IOC\bin\Debug\InBizOnion.Infrastructure.Repository.pdb
+E:\Projects\TMP\InBizOnion.Infrastructure.IOC\bin\Debug\Ninject.xml
+E:\Projects\TMP\InBizOnion.Infrastructure.IOC\obj\Debug\InBizOnion.Infrastructure.IOC.csprojResolveAssemblyReference.cache
+E:\Projects\TMP\InBizOnion.Infrastructure.IOC\obj\Debug\InBizOnion.Infrastructure.IOC.dll
+E:\Projects\TMP\InBizOnion.Infrastructure.IOC\obj\Debug\InBizOnion.Infrastructure.IOC.pdb

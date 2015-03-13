@@ -1,0 +1,15 @@
+E:\Projects\TMP\InBizOnion.SandBox.Service\bin\Debug\InBizOnion.SandBox.Service.exe
+E:\Projects\TMP\InBizOnion.SandBox.Service\bin\Debug\InBizOnion.SandBox.Service.pdb
+E:\Projects\TMP\InBizOnion.SandBox.Service\bin\Debug\InBizOnion.Domain.Entity.dll
+E:\Projects\TMP\InBizOnion.SandBox.Service\bin\Debug\InBizOnion.Infrastructure.Interface.dll
+E:\Projects\TMP\InBizOnion.SandBox.Service\bin\Debug\InBizOnion.Infrastructure.IOC.dll
+E:\Projects\TMP\InBizOnion.SandBox.Service\bin\Debug\InBizOnion.Service.Implementation.dll
+E:\Projects\TMP\InBizOnion.SandBox.Service\bin\Debug\InBizOnion.Service.Interface.dll
+E:\Projects\TMP\InBizOnion.SandBox.Service\bin\Debug\InBizOnion.Domain.Entity.pdb
+E:\Projects\TMP\InBizOnion.SandBox.Service\bin\Debug\InBizOnion.Infrastructure.Interface.pdb
+E:\Projects\TMP\InBizOnion.SandBox.Service\bin\Debug\InBizOnion.Infrastructure.IOC.pdb
+E:\Projects\TMP\InBizOnion.SandBox.Service\bin\Debug\InBizOnion.Service.Implementation.pdb
+E:\Projects\TMP\InBizOnion.SandBox.Service\bin\Debug\InBizOnion.Service.Interface.pdb
+E:\Projects\TMP\InBizOnion.SandBox.Service\obj\Debug\InBizOnion.SandBox.Service.csprojResolveAssemblyReference.cache
+E:\Projects\TMP\InBizOnion.SandBox.Service\obj\Debug\InBizOnion.SandBox.Service.exe
+E:\Projects\TMP\InBizOnion.SandBox.Service\obj\Debug\InBizOnion.SandBox.Service.pdb

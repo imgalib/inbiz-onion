@@ -1,0 +1,15 @@
+E:\Projects\TMP\InBizOnion.Infrastructure.Repository\bin\Debug\InBizOnion.Infrastructure.Repository.dll
+E:\Projects\TMP\InBizOnion.Infrastructure.Repository\bin\Debug\InBizOnion.Infrastructure.Repository.pdb
+E:\Projects\TMP\InBizOnion.Infrastructure.Repository\bin\Debug\InBizOnion.Domain.Entity.dll
+E:\Projects\TMP\InBizOnion.Infrastructure.Repository\bin\Debug\InBizOnion.Domain.Interface.dll
+E:\Projects\TMP\InBizOnion.Infrastructure.Repository\bin\Debug\InBizOnion.Infrastructure.Interface.dll
+E:\Projects\TMP\InBizOnion.Infrastructure.Repository\bin\Debug\MongoDB.Bson.dll
+E:\Projects\TMP\InBizOnion.Infrastructure.Repository\bin\Debug\MongoDB.Driver.dll
+E:\Projects\TMP\InBizOnion.Infrastructure.Repository\bin\Debug\InBizOnion.Domain.Entity.pdb
+E:\Projects\TMP\InBizOnion.Infrastructure.Repository\bin\Debug\InBizOnion.Domain.Interface.pdb
+E:\Projects\TMP\InBizOnion.Infrastructure.Repository\bin\Debug\InBizOnion.Infrastructure.Interface.pdb
+E:\Projects\TMP\InBizOnion.Infrastructure.Repository\bin\Debug\MongoDB.Bson.xml
+E:\Projects\TMP\InBizOnion.Infrastructure.Repository\bin\Debug\MongoDB.Driver.xml
+E:\Projects\TMP\InBizOnion.Infrastructure.Repository\obj\Debug\InBizOnion.Infrastructure.Repository.csprojResolveAssemblyReference.cache
+E:\Projects\TMP\InBizOnion.Infrastructure.Repository\obj\Debug\InBizOnion.Infrastructure.Repository.dll
+E:\Projects\TMP\InBizOnion.Infrastructure.Repository\obj\Debug\InBizOnion.Infrastructure.Repository.pdb

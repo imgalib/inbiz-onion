@@ -1,0 +1,15 @@
+E:\Projects\TMP\InBizOnion.Service.Implementation\bin\Debug\InBizOnion.Service.Implementation.dll
+E:\Projects\TMP\InBizOnion.Service.Implementation\bin\Debug\InBizOnion.Service.Implementation.pdb
+E:\Projects\TMP\InBizOnion.Service.Implementation\bin\Debug\InBizOnion.Domain.Entity.dll
+E:\Projects\TMP\InBizOnion.Service.Implementation\bin\Debug\InBizOnion.Domain.Interface.dll
+E:\Projects\TMP\InBizOnion.Service.Implementation\bin\Debug\InBizOnion.Infrastructure.Interface.dll
+E:\Projects\TMP\InBizOnion.Service.Implementation\bin\Debug\InBizOnion.Infrastructure.Repository.dll
+E:\Projects\TMP\InBizOnion.Service.Implementation\bin\Debug\InBizOnion.Service.Interface.dll
+E:\Projects\TMP\InBizOnion.Service.Implementation\bin\Debug\InBizOnion.Domain.Entity.pdb
+E:\Projects\TMP\InBizOnion.Service.Implementation\bin\Debug\InBizOnion.Domain.Interface.pdb
+E:\Projects\TMP\InBizOnion.Service.Implementation\bin\Debug\InBizOnion.Infrastructure.Interface.pdb
+E:\Projects\TMP\InBizOnion.Service.Implementation\bin\Debug\InBizOnion.Infrastructure.Repository.pdb
+E:\Projects\TMP\InBizOnion.Service.Implementation\bin\Debug\InBizOnion.Service.Interface.pdb
+E:\Projects\TMP\InBizOnion.Service.Implementation\obj\Debug\InBizOnion.Service.Implementation.csprojResolveAssemblyReference.cache
+E:\Projects\TMP\InBizOnion.Service.Implementation\obj\Debug\InBizOnion.Service.Implementation.dll
+E:\Projects\TMP\InBizOnion.Service.Implementation\obj\Debug\InBizOnion.Service.Implementation.pdb

@@ -1,0 +1,5 @@
+E:\Projects\TMP\InBizOnion.Infrastructure.Logging\bin\Debug\InBizOnion.Infrastructure.Logging.dll
+E:\Projects\TMP\InBizOnion.Infrastructure.Logging\bin\Debug\InBizOnion.Infrastructure.Logging.pdb
+E:\Projects\TMP\InBizOnion.Infrastructure.Logging\obj\Debug\InBizOnion.Infrastructure.Logging.csprojResolveAssemblyReference.cache
+E:\Projects\TMP\InBizOnion.Infrastructure.Logging\obj\Debug\InBizOnion.Infrastructure.Logging.dll
+E:\Projects\TMP\InBizOnion.Infrastructure.Logging\obj\Debug\InBizOnion.Infrastructure.Logging.pdb

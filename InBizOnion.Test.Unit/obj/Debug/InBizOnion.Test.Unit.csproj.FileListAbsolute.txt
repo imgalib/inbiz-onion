@@ -1,0 +1,5 @@
+E:\Projects\TMP\InBizOnion.Test.Unit\bin\Debug\InBizOnion.Test.Unit.dll
+E:\Projects\TMP\InBizOnion.Test.Unit\bin\Debug\InBizOnion.Test.Unit.pdb
+E:\Projects\TMP\InBizOnion.Test.Unit\obj\Debug\InBizOnion.Test.Unit.csprojResolveAssemblyReference.cache
+E:\Projects\TMP\InBizOnion.Test.Unit\obj\Debug\InBizOnion.Test.Unit.dll
+E:\Projects\TMP\InBizOnion.Test.Unit\obj\Debug\InBizOnion.Test.Unit.pdb
